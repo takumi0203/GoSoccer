@@ -1,0 +1,58 @@
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.center{
+    text-align: center;
+}
+body{
+    background-color: rgb(245, 186, 220)
+}
+.item{
+    padding: 1rem;
+}
+img{
+    width: 20rem;
+    height: auto;
+}
+a{
+    text-decoration: none;
+}
+.spn{
+    background-color: rgb(232, 235, 55);
+    color:rgb(102, 57, 15)
+}
+
+.rainbowA {
+	background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+	background: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet);
+	background: -o-linear-gradient(right, orange, yellow, green, cyan, blue, violet);
+	background: -moz-linear-gradient(right, orange, yellow, green, cyan, blue, violet);
+	-webkit-background-clip: text;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	text-emphasis-color: transparent;  
+}
+
+.blue{
+    background-color: blue;
+}
+h1{
+    padding-top: 1%;
+}
+#form{
+    height: 57px;
+    padding: 5px;
+}
+#submit{
+    margin-left: 3%;
+    margin-top: 1%;
+}
+#formname{
+    margin-left: 1%;
+    margin-right: 3%;
+}
+#comment{
+    margin-left: 1%;
+    padding-left: 5%;
+}
