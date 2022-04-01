@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="index.css">
     <title>囲碁サッカー部</title>
 </head>
@@ -43,7 +43,7 @@
     <h1 class="center">★理念★</h1>
 
     <div class="flex">
-        <img src="img/poster2.png" alt="囲碁サッカー部">
+        <img src="poster2.png" alt="囲碁サッカー部" id="poster">
         <div class="item">
             <h2>愛のサッカー、平和の囲碁</h2>
             <p>私たちは、囲碁サッカーの普及のために日々活動しています。</p>
@@ -54,6 +54,7 @@
 
     <h1 class="center">★リンク集★</h1>
     <a href="http://shuyu.fku.ed.jp/Default2.aspx" target="_blank" rel="noopener noreferrer"><p class="center">大濠高校</p></a>
+    <a href="netabarashi.php"><p class="center">将棋野球部</p></a>
 
 
     <h1 class="center">★掲示板★</h1>

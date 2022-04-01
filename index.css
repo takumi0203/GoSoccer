@@ -11,8 +11,12 @@ body{
 .item{
     padding: 1rem;
 }
-img{
+#poster{
     width: 20rem;
+    height: auto;
+}
+#doubt{
+    width: 100vw;
     height: auto;
 }
 a{
